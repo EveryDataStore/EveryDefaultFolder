@@ -1,2 +1,2 @@
 # EveryDefaultFolder
-EveryDefaultFolder is a submodule of EveryDataStore ECM project which defines everyWidget app and its features
+EveryDefaultFolder is a submodule of EveryDataStore ECM project which defines EveryDefaultFolder app and its features
