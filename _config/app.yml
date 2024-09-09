@@ -1,0 +1,9 @@
+---
+Name: EveryDefaultFolder
+---
+EveryDataStore\Model\RecordSet\RecordSetItem:
+  extensions:
+    - EveryDefaultFolder\Extension\EveryDefaultFolderRecordSetItemExtension
+EveryDataStore\Model\RecordSet\RecordSet:
+  extensions:
+    - EveryDefaultFolder\Extension\EveryDefaultFolderRecordExtension
