@@ -22,3 +22,4 @@ EveryDefaultFolder allows to define a automatically generated **folder tree** fo
 [EveryDataStore Frontend](https://github.com/EveryDataStore/EveryDataStoreFrontend)<br/>
 
 
+

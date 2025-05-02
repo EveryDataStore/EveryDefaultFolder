@@ -34,7 +34,8 @@ class EveryDefaultFolder extends DataObject implements PermissionProvider
     
     private static $summary_fields = [
         'Active',
-        'Title'
+        'Title',
+        'RecordSetTitle'
     ];
     
     private static $searchable_fields = [
@@ -88,6 +89,11 @@ class EveryDefaultFolder extends DataObject implements PermissionProvider
         parent::onAfterDelete();
     }
     
+    public function RecordSetTitle() {
+        return $this->RecordSet()->Title;
+    }
+
+
     /**
      * 
      * @return type

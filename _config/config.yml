@@ -13,6 +13,7 @@ EveryDefaultFolder\Model\EveryDefaultFolder:
         - Slug
         - Active
         - Title
+        - RecordSetTitle()
     API_Create_Fields:
         - Slug
         - Active
