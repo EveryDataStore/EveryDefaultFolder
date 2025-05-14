@@ -1,13 +1,10 @@
 # EveryDefaultFolder #
 
-This is a submodule of [EveryDataStore ECM](https://everydatastore.org) project which defines EveryNumbering app and its features.
-
-EveryDefaultFolder allows to define a automatically generated **folder tree** for RecordSetItems.
-
+This is a submodule of the [EveryDataStore ECM](https://everydatastore.org) project. 
+The EveryDefaultFolder app allows automatic creation of folder trees for RecordSetItems.
 
 ## Requirements ##
 [EveryDataStoreBackend](https://github.com/EveryDataStore/EveryDataStoreBackend)<br/>
-
 
 ## Installation ##
 - Go to EveryDataStoreBackend project directory
