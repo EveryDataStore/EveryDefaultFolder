@@ -1,5 +1,5 @@
 {
-  "name": "everydatastore/everydefaultforlder",
+  "name": "everydatastore/everydefaultfolder",
   "description": "This is a submodule of the EveryDataStore ECM project. The EveryDefaultFolder app allows automatic creation of folder trees for RecordSetItems.",
   "type": "silverstripe-vendormodule",
   "homepage": "https://everydatastore.org/en/apps/everydefaultfolder",
@@ -10,7 +10,7 @@
   ],
   "require": {
     "php": "^8.1",
-    "everydatastore/everydatastorebackend": "^1.5.2"
+    "everydatastore/everydatastorebackend": "^1.5.3"
   },
   "autoload": {
     "psr-4": {
